@@ -11,4 +11,5 @@
 * [sentinel模式基本结构](https://github.com/forbidden1420/redis/issues/9)
 * [sentinel模式启动流程](https://github.com/forbidden1420/redis/issues/10)
 * [6.0+多线程模型](https://github.com/forbidden1420/redis/issues/11)
+* [redisObject](https://github.com/forbidden1420/redis/issues/12)
 
